@@ -1,0 +1,10 @@
+rectangle,1,5
+circle,3
+triangle,8,1
+triangle,9,3
+triangle,10,4
+circle,3
+rectangle,8,1
+rectangle,10,3
+triangle,5,4
+circle,9
